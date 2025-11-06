@@ -10,9 +10,10 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwindcss,react,js,ts,nodejs,express,mongodb,prisma,git,postman,vscode,docker,vite,vercel,netlify&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss,react,js,ts,nodejs,express,mongodb,devto,git,postman,vscode,docker,vite,vercel,netlify&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amitrajit007.amitrajit007&)
+
