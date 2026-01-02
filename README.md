@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack MERN Developer | Cloud | AI</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Woking+on+....;Always+Learning" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,4 +16,5 @@
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amitrajit007.amitrajit007&)
+
 
