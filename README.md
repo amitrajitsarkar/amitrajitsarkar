@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Amitrajit Sarkar</h1>
+<h1 align="center">I'm Amitrajit Sarkar</h1>
 <h3 align="center">MERN | Backend | System Design Fundamentals</h3>
 
 <!-- <p align="center">
@@ -16,6 +16,7 @@
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amitrajit007.amitrajit007&)
+
 
 
 
