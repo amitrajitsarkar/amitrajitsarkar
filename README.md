@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vgit,vite,tailwindcss,js,ts,react,nodejs,expressjs,mongodb,redis,docker,postman&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,tailwindcss,js,ts,react,nodejs,expressjs,mongodb,redis,docker,postman&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
